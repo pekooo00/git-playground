@@ -12,7 +12,7 @@
 Hello world
 ```
 
-```python=
+```python
 def hello():
     print('Hello Chashin')
 ```
